@@ -73,4 +73,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](LICENSE).
 
 #video
-el video esta en la carpeta video dentro de src
+<video src="./src/video/videoapi.webm">
